@@ -1,0 +1,16 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "f".(ˆ‡°Èøÿÿÿÿ8Æ¸õ†ã1
+Q
+java:S1854"5Remove this useless assignment to local variable "s".(Þƒ¸w8Æ¸õ†ã1
+L	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿ8È¸õ†ã1
+G	java:S106"+Replace this use of System.out by a logger.(ÁïæË8É¸õ†ã1
+B
+java:S1481"&Remove this unused "s" local variable.(Þƒ¸w8É¸õ†ã1
+C
+java:S1481"&Remove this unused "i" local variable.(»ŸÜš8ÍØõ†ã1
+H
+java:S1481"&Remove this unused "f" local variable.(ˆ‡°Èøÿÿÿÿ8É¸õ†ã1
+I
+java:S1481"'Remove this unused "tf" local variable.(¾ÅŽüûÿÿÿÿ8É¸õ†ã1
+G	java:S106"+Replace this use of System.out by a logger.(ë€ÎÚ8Ê¸õ†ã1
