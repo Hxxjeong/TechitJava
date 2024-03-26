@@ -212,3 +212,19 @@ W
 'src/com/example/tddexam/Calculator.java,d\1\d18fd5f6ad167c5e3a985d3bb44884611610e256
 T
 $src/com/example/tddexam/CalTest.java,9\4\944326047bf8a09b1f18cc14ddd290e5c493a57c
+O
+src/com/example/day05/Ball.java,2\0\20a5bd48749167e2a1c55a8105ba3b569f107422
+O
+src/com/example/day05/Dice.java,9\c\9c82a87210a3530cd2c82dc2de93c43fbbad506f
+X
+(src/com/example/main/CalculatorTest.java,f\c\fc15b9af20ed2d26c564faec9903a78428297eb3
+P
+ src/com/example/day05/Lotto.java,2\1\211f0b8121354a28f1b3021f022132a4aa111ed6
+T
+$src/com/example/util/Calculator.java,7\c\7ce47e5fb879825e8a2ef6dbbb3cb873a20fbaa8
+Y
+)src/com/example/day05/VendingMachine.java,9\7\974332fd22c75960482b28ef878c2b2e06e7a796
+S
+#src/com/example/day05/MathBean.java,b\7\b71db0a7c53dea8a60df069b842032b8ab63aaf2
+I
+src/com/example/Test.java,9\3\9311efd5e0776696e45d0e3683298185502705ba
