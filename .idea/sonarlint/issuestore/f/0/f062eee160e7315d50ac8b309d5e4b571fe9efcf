@@ -1,0 +1,13 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(“€¸ü8”›¤…ì1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(»É×Ñ8–›¤…ì1
+G	java:S106
+"+Replace this use of System.out by a logger.(¡Õ­¡8™›¤…ì1
+G	java:S106"+Replace this use of System.out by a logger.(ğî­8››¤…ì1
+F	java:S106"+Replace this use of System.out by a logger.(²Â:8œ›¤…ì1
+
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÒø¿8ÖÌ¨…ì1
+£
+java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›¸¿£üÿÿÿÿ8ÖÌ¨…ì1

@@ -1,0 +1,16 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "bus".(ù­—¨8†ÛßÉç1
+U
+java:S1854"8Remove this useless assignment to local variable "car3".(§Ê¦û8ÊÚ¶Éç1
+U
+java:S1854"8Remove this useless assignment to local variable "car2".(¯Ä¿“8ÔÇÙÉç1
+F
+java:S1481")Remove this unused "car2" local variable.(¯Ä¿“8§¨ØÉç1
+F
+java:S1481")Remove this unused "car3" local variable.(§Ê¦û8ÎäÙÉç1
+L	java:S106	"+Replace this use of System.out by a logger.(üŞÒşÿÿÿÿ8õƒÛÉç1
+G	java:S106
+"+Replace this use of System.out by a logger.(ºüí³8Ç™ÜÉç1
+E
+java:S1481"(Remove this unused "bus" local variable.(ù­—¨8‰ÛßÉç1
