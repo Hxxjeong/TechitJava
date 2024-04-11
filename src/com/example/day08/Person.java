@@ -1,6 +1,6 @@
 package com.example.day08;
 
-public class Person {
+public final class Person {
     private final int id;   // Setter 사용 불가, 생성자에 파라미터로 필요
     private String name;
 
