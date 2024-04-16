@@ -1,11 +1,0 @@
-
-G	java:S106"+Replace this use of System.out by a logger.(ÔâŞ8‡¥ÕÀê1
-L	java:S106"+Replace this use of System.out by a logger.(¨óÌÜøÿÿÿÿ8Œ¥ÕÀê1
-G	java:S106"+Replace this use of System.out by a logger.(Î†˜8¥ÕÀê1
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¥ÕÀê1
-G	java:S106"+Replace this use of System.out by a logger.(€ûÄ·8¥ÕÀê1
-L	java:S106"+Replace this use of System.out by a logger.(üËÙ»úÿÿÿÿ8’¥ÕÀê1
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8“¥ÕÀê1
-G	java:S106"+Replace this use of System.out by a logger.(Ò˜ÿÂ8”¥ÕÀê1

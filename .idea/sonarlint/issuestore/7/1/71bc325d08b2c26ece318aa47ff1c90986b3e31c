@@ -1,16 +1,0 @@
-
-c
-java:S1192"FDefine a constant instead of duplicating this literal "hello" 4 times.(¼žÿä8ççàƒì1
-^
-java:S4973"<Strings and Boxed types should be compared using "equals()".(™—·Äþÿÿÿÿ8¤½ëƒì1
-Z
-java:S1854"8Remove this useless assignment to local variable "str4".(ØîŸŠûÿÿÿÿ8ñçàƒì1
-B
-java:S2129" Remove this "String" constructor(ÞË‘øÿÿÿÿ8¾àáƒì1
-B
-java:S2129" Remove this "String" constructor(ØîŸŠûÿÿÿÿ8¿àáƒì1
-K
-java:S1481")Remove this unused "str4" local variable.(ØîŸŠûÿÿÿÿ8ÿàƒì1
-L	java:S106"+Replace this use of System.out by a logger.(é¾çÑþÿÿÿÿ8±½ëƒì1
-G	java:S106"+Replace this use of System.out by a logger.(‘Ðü8Šìƒì1
-L	java:S106"+Replace this use of System.out by a logger.( €Ó·ùÿÿÿÿ8õãóƒì1

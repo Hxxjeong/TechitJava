@@ -1,10 +1,0 @@
-
-W
-java:S1854":Remove this useless assignment to local variable "dinter".(„Œ¶À8°Ý´Šì1
-W
-java:S1854":Remove this useless assignment to local variable "cinter".(Óµ™ù8±Ý´Šì1
-H
-java:S1481"+Remove this unused "cinter" local variable.(Óµ™ù8´Ý´Šì1
-H
-java:S1481"+Remove this unused "dinter" local variable.(„Œ¶À8´Ý´Šì1
-L	java:S106"+Replace this use of System.out by a logger.(§³Õ’ùÿÿÿÿ8§Ï§Œì1
