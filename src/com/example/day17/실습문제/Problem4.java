@@ -15,15 +15,13 @@ public class Problem4 {
         );
         
         // 부서 별 평균 급여
-        Map<String, List<Employee>> department = employees.stream()
-                .collect(Collectors.groupingBy(Employee::getDepartment));
+        Map<String, Double> averaging = employees.stream()
+                .collect(Collectors.groupingBy(
+                        Employee::getDepartment,
+                        Collectors.averagingDouble(Employee::getSalary))
+                );
 
-        department.forEach((dept, empList) -> {
-            double averageSalary = empList.stream()
-                    .mapToDouble(Employee::getSalary)
-                    .average()
-                    .orElse(0);
-            System.out.println(dept + ": " + averageSalary);
-        });
+        averaging.forEach((dept, sal) ->
+                System.out.println(dept + ": " + sal));
     }
 }
