@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤×ˆùÿÿÿÿ8Ö§¯å1
+^
+java:S1226"AIntroduce a new variable instead of reusing the parameter "orig".(µ˜Ë8‚Ö§¯å1
+L	java:S106"+Replace this use of System.out by a logger.(™´¿æÿÿÿÿÿ8‰Ö§¯å1
+W	java:S125"<This block of commented-out lines of code should be removed.(¨¤‹^8‰Ö§¯å1
+G	java:S106"+Replace this use of System.out by a logger.(í¤8‰Ö§¯å1
+]	java:S125"<This block of commented-out lines of code should be removed.(³¨áıÿÿÿÿ8‰Ö§¯å1
+G	java:S106 "+Replace this use of System.out by a logger.(ø ¿ô8ŠÖ§¯å1
+L	java:S106!"+Replace this use of System.out by a logger.(¡£¡¼ùÿÿÿÿ8ŠÖ§¯å1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‹Ö§¯å1
